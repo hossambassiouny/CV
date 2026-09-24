@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: hossam.bassiouny@gmail.com
   phone: +20 100 903 7090
-  timezone: Egypt/Al Jizah
+  timezone: Egypt / Al Jizah
   citizenship:
   business profile: https://hossambassiouny.github.io/card/
   linkedin: hossam-bassiouny
@@ -55,7 +55,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: freelance instructor
+  - role: Freelance Instructor
     time: 2023 - Present
     company: Banker's Lounge | E3mel Business | Blanchard
     details: |
