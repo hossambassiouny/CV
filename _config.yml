@@ -2,7 +2,8 @@
 
 # Site Settings
 title: Hossam Bassiouny
-url: 'https://hossambassiouny.github.io/CV/'
+url: 'https://hossambassiouny.github.io'
+baseur1: '/CV'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
