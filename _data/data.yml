@@ -3,21 +3,21 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: True
+  education: True
 
   # Profile information
   name: Hossam Bassiouny
   tagline: Learning Solutions Partner
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png
 
   # Sidebar links
   email: hossam.bassiouny@gmail.com
   phone: +20 100 903 7090
-  timezone: Egypt/Al Jizah # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Egypt/Al Jizah
   citizenship:
-  business profile: https://hossambassiouny.github.io/card/ # Include the full website URL, including "http://" or "https://".
+  business profile: https://hossambassiouny.github.io/card/
   linkedin: hossam-bassiouny
 
   languages:
@@ -25,22 +25,21 @@ sidebar:
     info:
     - idiom: Arabic
       level: Native
-
     - idiom: English
       level: Professional
 
 career-profile:
   title: Career Profile
   summary: |
-   Learning & Development professional and Certified Instructor with extensive experience in delivering
-   Financial Services, Banking, Compliance, and Soft Skills training, with a strong background in coaching,
-   employee development, performance management, and translating business and technical knowledge into
-   practical learning experiences.
+    Learning & Development professional and Certified Instructor with extensive experience in delivering
+    Financial Services, Banking, Compliance, and Soft Skills training, with a strong background in coaching,
+    employee development, performance management, and translating business and technical knowledge into
+    practical learning experiences.
 
-   Brings substantial corporate experience from Barclays Bank, Allianz, and CitiBank, combined with hands-on
-   training experience through professional academies and learning initiatives. Strong ability to understand
-   business and learner needs, adapt training to different audiences, and connect learning with workplace
-   performance.
+    Brings substantial corporate experience from Barclays Bank, Allianz, and CitiBank, combined with hands-on
+    training experience through professional academies and learning initiatives. Strong ability to understand
+    business and learner needs, adapt training to different audiences, and connect learning with workplace
+    performance.
 
 education:
   title: Education
@@ -51,7 +50,7 @@ education:
     
   - degree: BSc in Commerce
     university: Zagazig University
-    time: 2004
+    year: 2004
 
 experiences:
   title: Experiences
@@ -60,32 +59,23 @@ experiences:
     time: 2023 - Present
     company: Banker's Lounge | E3mel Business | Blanchard
     details: |
-     Deliver professional training programs covering Financial Services, Banking, Investment, and Soft
-     Skills.
-     Facilitate interactive learning sessions using practical examples, discussions, activities, and
-     workplace scenarios.
-     Develop and adapt training content to suit different learner profiles, business contexts, and learning
-     objectives.
-     Support learners in translating knowledge into practical workplace skills.
-     Develop online learning content and contribute to professional learning initiatives.
-     Deliver training through professional academies serving learners in Egypt and Saudi Arabia.
+      Deliver professional training programs covering Financial Services, Banking, Investment, and Soft Skills.
+      Facilitate interactive learning sessions using practical examples, discussions, activities, and workplace scenarios.
+      Develop and adapt training content to suit different learner profiles, business contexts, and learning objectives.
+      Support learners in translating knowledge into practical workplace skills.
+      Develop online learning content and contribute to professional learning initiatives.
+      Deliver training through professional academies serving learners in Egypt and Saudi Arabia.
 
   - role: Monitoring & Training Senior Officer
     time: 2010 - 2017
     company: Barclays Bank
- 
-details: |
-      Delivered and supported professional training initiatives related to Financial Crime, AML, and
-      regulatory requirements.
-     Served as a Certified Compliance Trainer, translating complex compliance requirements into practical
-      learning for employees.
-     Supported employee development through training, and practical guidance on compliance and
-     financial crime topics.
-     Monitored business and compliance practices and identified areas requiring corrective action and
-     development.
-     Prepared management information and reports to support performance monitoring and informed
-     decision-making.
-     Strengthen compliance awareness, controls, and employee understanding of regulatory requirements.
+    details: |
+      Delivered and supported professional training initiatives related to Financial Crime, AML, and regulatory requirements.
+      Served as a Certified Compliance Trainer, translating complex compliance requirements into practical learning for employees.
+      Supported employee development through training, and practical guidance on compliance and financial crime topics.
+      Monitored business and compliance practices and identified areas requiring corrective action and development.
+      Prepared management information and reports to support performance monitoring and informed decision-making.
+      Strengthen compliance awareness, controls, and employee understanding of regulatory requirements.
 
   - role: Unit Sales Manager
     time: 2008 - 2010
@@ -93,10 +83,8 @@ details: |
     details: |
       Supported and coached sales team members in acquiring clients and achieving sales objectives.
       Assessed team strengths and weaknesses and managed sales activities accordingly.
-      Prepared business administration reports to monitor performance against budget and support
-      alternative action plans.
-      Provided on-the-ground support to the sales team and coordinated with Compliance on
-      potential fraud and risk issues.
+      Prepared business administration reports to monitor performance against budget and support alternative action plans.
+      Provided on-the-ground support to the sales team and coordinated with Compliance on potential fraud and risk issues.
 
 certifications:
   title: Certifications
@@ -105,26 +93,22 @@ certifications:
     organization: Project Management Institute (PMI)
   - name: Train the Trainer
     organization: The Egyptian Banking Institute (EBI)
-      - name: Compliance Career Academy (CCA)
+  - name: Compliance Career Academy (CCA)
     organization: Cambridge University
   - name: New Techniques in Compliance
     organization: The Egyptian Banking Institute (EBI)
-
 
 projects:
   title: Projects
   assignments:
   - title: AML Training
-    tagline: "Trained over 800 Barclays Bank employees on Compliance Regulations,  Anti-Money Laundering procedures, and Risk Mitigation Strategies ."
-
+    tagline: "Trained over 800 Barclays Bank employees on Compliance Regulations, Anti-Money Laundering procedures, and Risk Mitigation Strategies."
   - title: KYC | KYB | PEP
     tagline: "Lead a team in conducting KYC, KYB, PEP review tasks for Barclays Bank's entire client portfolio, completing the project efficiently and ahead of the agreed deadline."
-  title: OSS Contributions
-  contributions:
-  - title: Volunteer Instructor
+  - title: Volunteer Instructor (OSS Contribution)
     tagline: "Delivered voluntary training sessions for students of Faculty of Economics, and Political Science at Cairo University and Faculty of Commerce at Zagazig University"
+  - title: Career Development Speaker (OSS Contribution)
+    tagline: "Supported Ain Shams University's students in developing practical skills and understanding the transition from academic life to the professional workplace."
 
-  - title: Career Development Speaker
-    tagline: " Supported Ain Shams University's students in developing practical skills and understanding the transition from academic life to the professional workplace."
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
